@@ -28,6 +28,13 @@ This project was developed as part of a company selection process to demonstrate
 - Icons integrated using Lucide React
 - Static assets managed inside the `public` folder
 - Optimized Next.js app directory structure
+- Proper login and signup form validation
+- Email validation to ensure users enter a correct email format
+- Password strength indicator showing weak, medium, and strong password levels
+- Helpful password guidance to encourage secure password creation
+- User-friendly validation messages for better form experience
+- Improved authentication UI to support safe and reliable user onboarding
+
 
 ---
 
