@@ -1,6 +1,6 @@
 # VibeChat 💬
 
-![VibeChat Banner](./public/banner.gif)
+![VibeChat Banner](./public/banner.png)
 
 ## 🚀 Live Demo
 
