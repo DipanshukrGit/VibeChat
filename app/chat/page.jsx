@@ -10,12 +10,12 @@ import ProfileModal from "../components/chat/ProfileModal";
 /* ── Mock contacts ── */
 const INITIAL_CONTACTS = [
   { id:"vibebot", name:"VibeBot 🤖",   initials:"VB", color:"#22c55e", avatar:"/avatar/bot.png",       lastMsg:"Hello! Type 'hi' to start.",      time:"now",       online:true,  isBot:true  },
-  { id:"alex",    name:"Alex Johnson",  initials:"AJ", color:"#3b82f6", avatar:"/avatar/man.png",       lastMsg:"Hey, when are you free?",          time:"2m",        online:true,  isBot:false, unread:3 },
+  { id:"alex",    name:"Alex Johnson",  initials:"AJ", color:"#3b82f6", avatar:"/avatar/man.png",       lastMsg:"Hey, when are you free?",          time:"2m",        online:true,  isBot:false, unread:1 },
   { id:"sarah",   name:"Sarah Chen",    initials:"SC", color:"#a855f7", avatar:"/avatar/user.png",      lastMsg:"Did you see the latest update?",   time:"15m",       online:false, isBot:false },
   { id:"mike",    name:"Mike Davis",    initials:"MD", color:"#f97316", avatar:"/avatar/hacker.png",    lastMsg:"Let's catch up soon!",             time:"1h",        online:true,  isBot:false },
   { id:"emma",    name:"Emma Wilson",   initials:"EW", color:"#ec4899", avatar:"/avatar/astronaut.png", lastMsg:"Thanks for the help earlier 😊",  time:"2h",        online:false, isBot:false },
   { id:"james",   name:"James Brown",   initials:"JB", color:"#14b8a6", avatar:"/avatar/dog.png",       lastMsg:"The project looks great!",         time:"3h",        online:false, isBot:false },
-  { id:"lisa",    name:"Lisa Martinez", initials:"LM", color:"#f59e0b", avatar:"/avatar/user.png",      lastMsg:"Can you review my PR?",            time:"Yesterday", online:true,  isBot:false, unread:7 },
+  { id:"lisa",    name:"Lisa Martinez", initials:"LM", color:"#f59e0b", avatar:"/avatar/user.png",      lastMsg:"Can you review my PR?",            time:"Yesterday", online:true,  isBot:false, unread:1 },
   { id:"chris",   name:"Chris Taylor",  initials:"CT", color:"#6366f1", avatar:"/avatar/man.png",       lastMsg:"Coffee tomorrow?",                 time:"Yesterday", online:false, isBot:false },
 ];
 
